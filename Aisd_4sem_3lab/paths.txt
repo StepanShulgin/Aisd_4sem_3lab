@@ -1,0 +1,6 @@
+St. Petersburg;Moscow;10;20
+Moscow;Khabarovsk;40;35
+Moscow;Kazan;50;30
+Anapa;Abakan;69;N/A
+Adler;Astrakhan;54;78
+Bratsk;Moscow;67;43
